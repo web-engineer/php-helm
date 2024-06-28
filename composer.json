@@ -26,9 +26,9 @@
         }
     ],
     "require": {
-        "illuminate/macroable": "^9.0.1",
+        "illuminate/macroable": "^9.35",
         "illuminate/support": "^9.0.1",
-        "symfony/process": "^5.4|^6.0"
+        "symfony/process": "^5.4|^6.0|^6.4"
     },
     "autoload": {
         "psr-4": {
